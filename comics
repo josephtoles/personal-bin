@@ -1,0 +1,13 @@
+#!/bin/bash
+firefox -pentadactyl "
++c 'o questionablecontent.net'
++c 't girlswithslingshots.com'
++c 't somethingpositive.net'
++c 't darthsanddroids.net'
++c 't xkcd.com'
++c 't gunnerkrigg.com'
++c 't drmcninja.com'
++c 't giantitp.com'
++c 't goblinscomic.com'
++c 't dresdencodak.com'
+"
