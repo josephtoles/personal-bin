@@ -1,13 +1,13 @@
 #!/bin/bash
-firefox -pentadactyl "
-+c 'o questionablecontent.net'
-+c 't girlswithslingshots.com'
-+c 't somethingpositive.net'
-+c 't darthsanddroids.net'
-+c 't xkcd.com'
-+c 't gunnerkrigg.com'
-+c 't drmcninja.com'
-+c 't giantitp.com'
-+c 't goblinscomic.com'
-+c 't dresdencodak.com'
-"
+firefox  \
+-new-tab questionablecontent.net \
+-new-tab girlswithslingshots.com \
+-new-tab somethingpositive.net \
+-new-tab darthsanddroids.net \
+-new-tab xkcd.com \
+-new-tab gunnerkrigg.com \
+-new-tab drmcninja.com \
+-new-tab giantitp.com \
+-new-tab goblinscomic.com \
+-new-tab dresdencodak.com
+
